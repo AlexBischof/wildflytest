@@ -385,9 +385,4 @@
         </outbound-socket-binding>
     </socket-binding-group>
 
-    <deployments>
-        <deployment name="wildflytest-1.0-SNAPSHOT.war" runtime-name="wildflytest-1.0-SNAPSHOT.war">
-            <content sha1="04631144ddc6bbdc5d9de646ec4861801434e0a9"/>
-        </deployment>
-    </deployments>
 </server>
